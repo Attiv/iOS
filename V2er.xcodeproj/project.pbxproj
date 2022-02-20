@@ -1124,7 +1124,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"V2er/Preview Content\"";
-				DEVELOPMENT_TEAM = DZCZQ4694Z;
+				DEVELOPMENT_TEAM = AVFY626F96;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = V2er/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -1132,7 +1132,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = v2er.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vitta.v2ex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -1147,7 +1147,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"V2er/Preview Content\"";
-				DEVELOPMENT_TEAM = DZCZQ4694Z;
+				DEVELOPMENT_TEAM = AVFY626F96;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = V2er/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -1155,7 +1155,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = v2er.app;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vitta.v2ex;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
